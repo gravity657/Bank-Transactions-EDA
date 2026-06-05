@@ -11,4 +11,4 @@ Python, Pandas, Matplotlib, Seaborn
 - A city's total transaction amount is determined by a combination of transaction frequency and average transaction amount rather than either metric alone.
 
 ## Notebook
-[Bank Transactions EDA Notebook](link to your notebook here)
+[Bank Transactions EDA Notebook]([link to your notebook here](https://github.com/gravity657/Bank-Transactions-EDA/blob/main/transactions_analysis.ipynb))
